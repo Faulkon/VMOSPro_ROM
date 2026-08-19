@@ -18,21 +18,7 @@
 
 ## Download
 
-There are two build types: Gapps (with Google Services) and vanilla (no Google Services)
-
-[Android 7.1.2 64-bit GEEK (gapps)](http://link1s.com/geQV5)
-
-[Android 7.1.2 64-bit GEEK (vanilla)](http://link1s.com/VuBG)
-
-[Android 7.1.2 32-bit GEEK (gapps)](http://link1s.com/13YlGTOA)
-
-[Android 7.1.2 32-bit GEEK (vanilla)](http://link1s.com/LFzYlm)
-
-[Android 5.1.1 32-bit GEEK (gapps)](http://link1s.com/h4w80)
-
-[Android 5.1.1 32-bit GEEK (vanilla)](http://link1s.com/4o4k9)
-
-# LITE ROM
+There are two build types: Gapps (with Google Services) and vanilla (no Google Service
 
 ## What's new?
 
@@ -47,19 +33,7 @@ There are two build types: Gapps (with Google Services) and vanilla (no Google S
 
 ## Download
 
-There are two build types: Gapps (with Google Services) and vanilla (no Google Services)
-
-[Android 7.1.2 64-bit LITE (gapps)](http://link1s.com/4TqXgRf)
-
-[Android 7.1.2 64-bit LITE (vanilla)](http://link1s.com/w2Vo)
-
-[Android 7.1.2 32-bit LITE (gapps)](http://link1s.com/BvDz7Q)
-
-[Android 7.1.2 32-bit LITE (vanilla)](http://link1s.com/jZZhH)
-
-[Android 5.1.1 32-bit LITE (gapps)](http://link1s.com/K69GK5v)
-
-[Android 5.1.1 32-bit LITE (vanilla)](http://link1s.com/hgLVsPZ)
+There are two build types: Gapps (with Google Services) and vanilla (
 
 
 # Installation guide
@@ -79,7 +53,4 @@ There are two build types: Gapps (with Google Services) and vanilla (no Google S
  <b> Step 7: </b> Find the ROM file and select it.<br/>
 <font color="gray">ROM will be installed to this path <i>/data/data/com.vmos.pro/osimg/r/ot**/</i></font>
  <center> <img src = "https://vmos.wap.sh/images/vmos-pro-install-rom07.png" style = "border: 1px solid black; width: 60%;" /> </center  > <br>
- <b> Step 8: </b> Wait for the ROM to be installed
- <center> <img src = "https://vmos.wap.sh/images/vmos-pro-install-rom08.jpg" style = "border: 1px solid black; width: 60%;" /> </center  > <br><b>Step 9:</b> Well done!<br>
-<center><img src="https://vmos.wap.sh/images/Screenshot_20210124-112010.png" style="border: 1px solid black;width:60%;"/></center>
-<br>
+ <b> Step
